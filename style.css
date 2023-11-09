@@ -33,12 +33,13 @@ body {
   
   .project {
     margin: 20px 0;
-    
+
   }
   
   .project img {
     max-width: 40%;
     height: auto;
+    display: flex;
   }
   
   .project h3 {
