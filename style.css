@@ -19,7 +19,9 @@ body {
   header p {
     font-size: 18px;
   }
-  
+  .about{
+    text-align: center;
+  }
   .about, .projects, .contact {
     padding: 20px;
     margin: 20px;
